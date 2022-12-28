@@ -1,5 +1,5 @@
 # Rimsys Technical Interview
-Technical Specs for Document Management Service. (Draft)
+Technical Specs for Document Management Service.
 
 
 ## Product Requirements
